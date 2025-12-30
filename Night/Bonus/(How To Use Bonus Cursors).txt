@@ -1,0 +1,5 @@
+To use the bonus cursors, simply go to:
+
+Control Panel>Mouse>Pointers
+
+Now select the cursor that you want to change and click browse, then locate the "Night Diamond" Folder and open the "Bonus" Folder inside, choose the cursor you want, then click open and your done.
